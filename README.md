@@ -1,12 +1,18 @@
-### Hello, wordl!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+<img src="https://github.com/thiagocabralcorreia/thiagocabralcorreia/blob/main/images/bannergithub.png" width="100%">
 
-I'm Thiago Cabral Correia, front-end web & mobile developer, tech enthusiast. 
+### About me
 
-#### 🛠️ I've worked with these tools
+- 💻 I've been working with **Web & Mobile Development** for 2+ years
+- 📚 I'm constantly improving my skills and studying new technologies
+- 🎨 Before becoming a developer, I was graphic designer for 5 years
+- 📷 Fun fact: I used to be a professional photographer too
+- 📄 Here you can see my [licenses and certifications](https://github.com/thiagocabralcorreia/certifications)
+- ☕ I like collaborating and making connections, especially over a cup of coffee
 
-![HTML5](https://img.icons8.com/color/37/html-5.png)![CSS3](https://img.icons8.com/color/37/css3.png)![JavaScript](https://img.icons8.com/color/37/javascript.png)![TypeScript](https://img.icons8.com/color/37/typescript.png)![React.js](https://img.icons8.com/color/37/react-native.png)![Redux](https://img.icons8.com/color/37/redux.png) ![MaterialUI](https://img.icons8.com/color/37/material-ui.png) ![SASS](https://img.icons8.com/color/37/sass.png) <img height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"> ![NPM](https://img.icons8.com/color/37/npm.png) ![Github](https://img.icons8.com/material-outlined/37/github.png)![Git](https://img.icons8.com/color/37/git.png)![VSCode](https://img.icons8.com/color/37/visual-studio-code-2019.png)![Photoshop](https://img.icons8.com/color/37/adobe-photoshop--v1.png)![Illustrator](https://img.icons8.com/color/37/adobe-illustrator--v1.png)
+### I've worked with these tools
 
-Code and coffee are my passions. I like to solve problems, create beautiful and functional products, work in a team and make connections.
+![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![TypeScript](https://img.icons8.com/color/35/typescript.png)![React.js](https://img.icons8.com/color/35/react-native.png)![Redux](https://img.icons8.com/color/35/redux.png)![Next.js](https://img.icons8.com/color/fluency-systems-regular/35/nextjs.png)<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"> ![SASS](https://img.icons8.com/color/35/sass.png) ![NPM](https://img.icons8.com/color/35/npm.png) <img height="30" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png"> ![Git](https://img.icons8.com/color/35/git.png)![Github](https://img.icons8.com/color/material-outlined/35/github.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Photoshop](https://img.icons8.com/color/35/adobe-photoshop--v1.png)![Illustrator](https://img.icons8.com/color/35/adobe-illustrator--v1.png)
 
-#### 📫 Feel free to connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Cabral%20Correia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cabral-correia/)](https://www.linkedin.com/in/thiago-cabral-correia/) [![Gmail Badge](https://img.shields.io/badge/-thiagocabralcorreia@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagocabralcorreia@gmail.com)](mailto:thiagocabralcorreia@gmail.com)
+### 📫 Feel free to connect with me
+
+[![Website Badge](https://img.shields.io/badge/-Portfolio%20Website-fbbf24?style=for-the-badge&logo=Vercel&logoColor=171717&link=https://thiagocabralcorreia.vercel.app/)](https://thiagocabralcorreia.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-fbbf24?style=for-the-badge&logo=Linkedin&logoColor=171717&link=https://www.linkedin.com/in/thiago-cabral-correia/)](https://www.linkedin.com/in/thiago-cabral-correia/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-fbbf24?style=for-the-badge&logo=Gmail&logoColor=171717&link=mailto:thiagocabralcorreia@gmail.com)](mailto:thiagocabralcorreia@gmail.com)
